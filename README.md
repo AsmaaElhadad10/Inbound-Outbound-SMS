@@ -41,6 +41,3 @@ This project is open-sourced under the MIT license.
 
 - Twilio API
 - Java Servlet API
-
-## Contact Information
-- GitHub: [[Your GitHub Profile](https://github.com/AsmaaElhadad10/Inbound-Outbound-SMS/)https://github.com/AsmaaElhadad10/Inbound-Outbound-SMS/]
