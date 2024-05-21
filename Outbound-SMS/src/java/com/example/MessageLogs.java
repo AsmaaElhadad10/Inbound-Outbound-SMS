@@ -23,13 +23,13 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Amal ELF
+ * @author asmaa
  */
 public class MessageLogs extends HttpServlet {
 
     private static final String DB_URL = "jdbc:postgresql://localhost:5432/smsdb";
     private static final String DB_USER = "postgres";
-    private static final String DB_PASSWORD = "amlahmad12345";
+    private static final String DB_PASSWORD = "Asmaa123";
 
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
